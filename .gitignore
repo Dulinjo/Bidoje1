@@ -7,3 +7,8 @@ __pycache__/
 *.jsonl
 *.csv
 *.log
+
+# secrets
+.env
+*.pem
+*.key
